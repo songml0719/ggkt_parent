@@ -1,10 +1,10 @@
 package com.atguigu.ggkt.vod.utils;
 
-import java.util.Random;
-import javax.crypto.Mac;
-import javax.crypto.spec.SecretKeySpec;
-
-import sun.misc.BASE64Encoder;
+//import java.util.Random;
+//import javax.crypto.Mac;
+//import javax.crypto.spec.SecretKeySpec;
+//
+//import sun.misc.BASE64Encoder;
 
 public class Signature {
 //    private String secretId;
