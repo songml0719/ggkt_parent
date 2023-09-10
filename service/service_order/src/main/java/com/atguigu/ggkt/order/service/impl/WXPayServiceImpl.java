@@ -23,7 +23,7 @@ public class WXPayServiceImpl implements WXPayService {
 //        paramMap.put("body", "test");
 //        paramMap.put("out_trade_no", orderNo);
 //        paramMap.put("total_fee", "1");
-//        paramMap.put("spbill_create_ip", "127.0.0.1");
+//        paramMap.put("spbill_create_ip", "49.123.88.83");
 //        paramMap.put("notify_url", "http://glkt.atguigu.cn/api/order/wxPay/notify");
 //        paramMap.put("trade_type", "JSAPI");
 //        paramMap.put("openid", "oQTXC56lAy3xMOCkKCImHtHoLLN4");

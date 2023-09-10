@@ -36,7 +36,7 @@ public class TeacherController {
     @Autowired
     private TeacherService teacherService;
 
-    //http://localhost:8301/admin/vod/teacher/findAll
+    //http://49.123.88.83:8301/admin/vod/teacher/findAll
 //    @ApiOperation("查询所有讲师")
 //    @GetMapping("findAll")
 //    public List<Teacher> findAllTeacher() {
